@@ -1,0 +1,83 @@
+.pad-top {
+    padding-top: 60px;
+  }
+
+  .my-row {
+      text-align: center;
+  }
+  .my-h5 {
+      color: black;
+  }
+  .container {
+     padding: 80px 0 80px 0;
+  }
+  footer {
+      background-color: #01000e;
+      padding-top: 40px;
+      color: rgb(223, 208, 208);
+      position: relative;
+      margin: 30px 0 0 0;
+  }
+  footer section {
+    padding-left: 90px;
+  }
+  footer i:hover,
+  footer a:hover {
+    color: white;
+    text-decoration: none;
+  }
+  footer i,
+  footer a {
+    color: rgb(226, 211, 211);
+    text-decoration: none;
+    padding-bottom: 20px;
+  }
+  footer .p {
+    background-color: #0a011b;
+    text-align: center;
+  }
+  footer section p {
+   background-color: none;
+  }
+  .col-md-4 h1 {
+      font-weight: 700px;
+      font-size: 100px
+  }
+  .card {
+      padding: 0 0 40px 0;
+      border: none;
+  }
+  .inline-icon i {
+    padding-right: 15px;
+    color: white;
+  }
+
+  .mybtn {
+    background-color: #01000e;
+    color: white;
+      padding: 10px 15px 10px 15px;
+      border-radius: 5px;
+      border: 1px solid #01000e;
+      text-decoration: none;
+  }
+  .mybtn:hover {
+      text-decoration: none;
+      background-color: white;
+      color: #01000e;
+  }
+
+  #fixed {
+    background: url("Images/color.jpg") no-repeat center center fixed;
+    display: table;
+    height: 60%;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+  }
+  #fixed .row {
+      margin: 80px;
+  }
